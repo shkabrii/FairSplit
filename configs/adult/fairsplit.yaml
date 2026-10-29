@@ -1,0 +1,9 @@
+dataset: adult
+method: fairsplit
+lambda_f: 0.025
+rho_f: 0.4
+lambda_s: 0.05
+rho_s: 0.005
+sigma: 2.0
+warmup: 50
+log: [val]

@@ -1,0 +1,7 @@
+dataset: adult
+method: diffmcdp
+warmup: 50
+lam: 0.5
+temperature: 5.0
+maxdiff_lr: 0.001
+maxdiff_steps: 30

@@ -1,0 +1,5 @@
+dataset: celeba-a
+method: diffmcdp
+warmup: 50
+lam: 0.3
+temperature: 20.0

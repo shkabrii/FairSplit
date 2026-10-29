@@ -1,0 +1,9 @@
+dataset: utkface-ar
+method: fairsplit
+lambda_f: 0.1
+rho_f: 1.3
+lambda_s: 0.05
+rho_s: 0.1
+sigma: 5.0
+warmup: 50
+log: [val]

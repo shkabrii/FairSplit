@@ -1,0 +1,8 @@
+dataset: fairface
+method: fairsplit
+warmup: 50
+lambda_f: 0.01
+lambda_s: 0.025
+rho_f: 1.5
+rho_s: 2.0
+sigma: 5.0

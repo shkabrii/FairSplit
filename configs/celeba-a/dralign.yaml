@@ -1,0 +1,5 @@
+dataset: celeba-a
+method: dralign
+warmup: 50
+lam: 0.2
+beta: 0.01

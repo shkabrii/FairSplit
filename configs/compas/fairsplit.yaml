@@ -1,0 +1,9 @@
+dataset: compas
+method: fairsplit
+lambda_f: 0.01
+rho_f: 0.3
+lambda_s: 0.2
+rho_s: 0.005
+sigma: 2.0
+warmup: 50
+log: [val]

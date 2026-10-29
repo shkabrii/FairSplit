@@ -1,0 +1,4 @@
+dataset: celeba-a
+method: premover
+warmup: 50
+lam: 0.025

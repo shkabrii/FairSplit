@@ -1,0 +1,9 @@
+dataset: celeba-a
+method: fairsplit
+lambda_f: 0.01
+rho_f: 0.5
+lambda_s: 0.025
+rho_s: 0.5
+sigma: 5.0
+warmup: 50
+log: [val]

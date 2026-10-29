@@ -1,0 +1,6 @@
+dataset: compas
+method: advdebias
+warmup: 50
+lam: 1.0
+adversary_layers: [50]
+dropout: 0.0

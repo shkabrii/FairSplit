@@ -1,0 +1,4 @@
+dataset: adult
+method: premover
+warmup: 50
+lam: 0.005

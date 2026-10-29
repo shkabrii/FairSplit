@@ -1,0 +1,5 @@
+dataset: celeba-a
+method: hsic_ys
+warmup: 50
+lam: 50.0
+sigma: 5.0

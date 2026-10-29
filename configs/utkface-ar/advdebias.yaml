@@ -1,0 +1,5 @@
+dataset: utkface-ar
+method: advdebias
+warmup: 50
+lam: 0.35
+adversary_layers: [50]

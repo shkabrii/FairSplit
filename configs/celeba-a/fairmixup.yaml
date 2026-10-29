@@ -1,0 +1,4 @@
+dataset: celeba-a
+method: fairmixup
+warmup: 50
+lam: 1.0

@@ -1,0 +1,4 @@
+dataset: adult
+method: fairmixup
+warmup: 50
+lam: 0.8

@@ -1,0 +1,24 @@
+[project]
+name = "fairsplit"
+version = "1.0.0"
+description = "FairSplit: Decomposing the Embedding Space for Fair Classification"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy==1.26.4",
+    "pandas==2.3.3",
+    "pillow==12.1.0",
+    "pyyaml==6.0.3",
+    "scikit-learn==1.8.0",
+    "scipy==1.17.1",
+    "statsmodels==0.14.6",
+    "torch==2.9.1",
+    "torchvision==0.24.1",
+    "transformers==4.57.6",
+]
+
+[project.optional-dependencies]
+fairface = ["datasets"]
+
+[tool.setuptools]
+packages = ["src", "src.methods"]

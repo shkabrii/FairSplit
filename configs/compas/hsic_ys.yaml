@@ -1,0 +1,5 @@
+dataset: compas
+method: hsic_ys
+warmup: 50
+lam: 200.0
+sigma: 1.0

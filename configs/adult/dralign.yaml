@@ -1,0 +1,5 @@
+dataset: adult
+method: dralign
+warmup: 50
+lam: 0.5
+beta: 0.01

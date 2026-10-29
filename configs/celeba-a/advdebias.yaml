@@ -1,0 +1,5 @@
+dataset: celeba-a
+method: advdebias
+warmup: 50
+lam: 0.2
+adversary_layers: [50]
