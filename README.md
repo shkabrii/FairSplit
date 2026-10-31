@@ -159,3 +159,20 @@ scripts/              # data preparation and result summary
 ## Acknowledgements
 
 This codebase builds on the [Fair Fairness Benchmark (FFB)](https://github.com/ahxt/fair_fairness_benchmark) and the [MCDP codebase](https://github.com/mitao-cat/icml24_mcdp): the data pipeline, the training setup and the evaluation metrics follow them, and the baselines are ported from their implementations. The HSIC estimator, the centroid updates and the compression losses are adapted from [H-SPLID](https://github.com/neu-spiral/H-SPLID). We thank the authors for making their code available.
+
+
+## Citation
+
+If you use this code in your research, please cite (NeurIPS citation coming soon):
+
+```bibtex
+@misc{shkabrii2026fairsplitdecomposingembeddingspace,
+      title={FairSplit: Decomposing the Embedding Space for Fair Classification}, 
+      author={Andrii Shkabrii and Anna Beer and Ylli Sadikaj and Claudia Plant},
+      year={2026},
+      eprint={2610.39031},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2610.39031}, 
+}
+```
