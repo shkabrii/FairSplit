@@ -11,6 +11,7 @@
 
 *NeurIPS 2026* 🇦🇺
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.20009-b31b1b.svg)](https://arxiv.org/abs/2610.39031)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776ab.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.9-ee4c2c.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
