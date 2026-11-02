@@ -15,7 +15,7 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776ab.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.9-ee4c2c.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-<img src="assets/overview.png" width="95%" alt="FairSplit overview: the encoder embedding is split by a mask into a Fair Space, used by the classifier, and a Sensitive Space">
+<img src="assets/overview.png" width="100%" alt="FairSplit overview: the encoder embedding is split by a mask into a Fair Space, used by the classifier, and a Sensitive Space">
 
 </div>
 
